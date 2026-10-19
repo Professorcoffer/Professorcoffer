@@ -11,19 +11,19 @@
 
 <h2>What I’m Working On</h2>
 
-<img
-  align="right"
-  src="https://media1.tenor.com/m/T7gxakoKzAAAAAAd/unit-vs-integration-tests.gif"
-  height="245"
-  alt="QA testing GIF"
-/>
-
 <ul>
   <li>Deepening my knowledge of testing theory</li>
   <li>Trying to expand my testing portfolio</li>
 </ul>
 
 <h2>A Few Quick Facts</h2>
+
+<img
+  align="right"
+  src="https://media1.tenor.com/m/T7gxakoKzAAAAAAd/unit-vs-integration-tests.gif"
+  height="250"
+  alt="QA meme GIF"
+/>
 
 <ul>
   <li>Finished free testing course "QA from zero. Base course" on Stepik by experienced tester Artyom Rusau and additional "QA from zero. Exercises" course</li>
