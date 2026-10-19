@@ -6,7 +6,7 @@
 <p>
   My name is Max, and I’m a beginner QA Engineer based in Minsk, Belarus.
   I don't have any work experience yet, but I'm looking for opportunities
-  to gain hands-on experience and grow as a QA Engineer.
+  to gain hands-on experience and grow as a QA Engineer
 </p>
 
 <h2>What I’m Working On</h2>
@@ -29,8 +29,8 @@
   <li>Finished free testing course "QA from zero. Base course" on Stepik by experienced tester Artyom Rusau and additional "QA from zero. Exercises" course</li>
   <li>Studied and successfully completed a capstone project on Yandex "Software Test Engineer: From Beginner to Automation Specialist" course</li>
   <li>Before moving into software testing, I had programming experience and completed 3 years of a 4-year bachelor’s degree program in Business Information Systems</li>
-  <li>I enjoy both manual testing and building reliable automated checks.</li>
-  <li>Outside of QA, I’m interested in gaming, collecting figures and models, and pop culture.</li>
+  <li>I enjoy both manual testing and building reliable automated checks</li>
+  <li>Outside of QA, I’m interested in gaming, collecting figures and models, and pop culture</li>
 </ul>
 
 <h2>Technologies & Tools</h2>
