@@ -41,7 +41,7 @@
 </p>
 
 <p align="center">
-  ![java](https://www.readmecodegen.com/api/social-icon?name=java&size=96)
+  <img src="https://www.readmecodegen.com/api/social-icon?name=java&size=96" alt="java" />
 </p>
 
 <p align="center">
